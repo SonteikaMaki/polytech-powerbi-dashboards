@@ -62,7 +62,7 @@
   * Выявление топа востребованных специализаций (*Data Analyst, System Analyst, Business Analyst, BI-аналитик*)[cite: 8, 9, 10].
 
 <p align="center">
-  <img src="путь_к_картинке/hh_salary.png" width="800px" alt="Дашборд по вакансиям hh.ru">
+  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/L2.jpg" width="800px" alt="Дашборд по вакансиям hh.ru">
 </p>
 
 #### 💡 Бизнес-выводы (Key Findings):
