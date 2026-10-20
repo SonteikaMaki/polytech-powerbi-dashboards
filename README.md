@@ -81,7 +81,7 @@
   * Социально-демографический профиль аудитории (пол, возраст, уровень образования)[cite: 13, 14, 15].
 
 <p align="center">
-  <img src="путь_к_картинке/social_metrics.png" width="800px" alt="Дашборд по соцсетям">
+  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/L3.jpg" width="800px" alt="Дашборд по соцсетям">
 </p>
 
 ####  Бизнес-выводы (Key Findings):
