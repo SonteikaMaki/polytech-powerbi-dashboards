@@ -28,7 +28,7 @@
   * Выявление топа востребованных специализаций (*Data Analyst, System Analyst, Business Analyst, BI-аналитик*).
 
 <p align="center">
-  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/L2.jpg" width="800px" alt="Дашборд по вакансиям hh.ru">
+  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/screenshots/L2.jpg" width="800px" alt="Дашборд по вакансиям hh.ru">
 </p>
 
 #### 💡 Бизнес-выводы (Key Findings):
@@ -47,7 +47,7 @@
   * Социально-демографический профиль аудитории (пол, возраст, уровень образования).
 
 <p align="center">
-  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/L3.jpg" width="800px" alt="Дашборд по соцсетям">
+  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/screenshots/L3.jpg" width="800px" alt="Дашборд по соцсетям">
 </p>
 
 #### 💡 Бизнес-выводы (Key Findings):
@@ -66,7 +66,7 @@
   * Визуализация динамики во времени с использованием карточек KPI, линейных графиков и комбинированных гистограмм.
 
 <p align="center">
-  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/L4.jpg" width="800px" alt="Дашборд по анализу продаж с Python">
+  <img src="https://github.com/SonteikaMaki/polytech-powerbi-dashboards/blob/main/screenshots/L4.jpg" width="800px" alt="Дашборд по анализу продаж с Python">
 </p>
 
 #### 💡 Технические и бизнес-выводы (Key Findings):
